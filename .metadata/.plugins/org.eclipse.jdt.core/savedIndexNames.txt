@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/home/m12/Documentos/EstagioRibeirao/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3183980690.index
+597894449.index
+3131733131.index

@@ -1,0 +1,24 @@
+package exer2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+    public static boolean verificarSequenciaFibonacci(int numero) {
+        int a = 0;
+        int b = 1;
+
+        while (b < numero) {
+            int temp = b;
+            b = a + b;
+            a = temp;
+        }
+
+        return b == numero;
+    }
+
+}

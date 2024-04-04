@@ -1,0 +1,21 @@
+package exer5;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		String palavra = "Desenvolvedor";
+		String aux;
+		
+		for(int i = 0; i < palavra.length(); i++) {
+			aux = palavra[i];
+			
+		}
+		System.out.println(aux);
+
+	}
+
+}
